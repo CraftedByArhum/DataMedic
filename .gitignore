@@ -1,0 +1,6 @@
+venv/
+py312/
+py312.zip
+get-pip.py
+__pycache__/
+*.pyc
